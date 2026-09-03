@@ -1,4 +1,4 @@
-# Hi, I'm Aleix Martinez Tejero 👋
+# Hi, I'm Aleix Martinez 
 ### Game dev
 
 Final-year CDI student based in Barcelona. I specialize in bridging the gap between deep systems programming and high-performance technical art. 
@@ -8,8 +8,8 @@ Final-year CDI student based in Barcelona. I specialize in bridging the gap betw
 - 🔧 **Tools:** Visual Studio, Git, Jira, Adobe Suite
 - 🎓 **Education:** Graduating from ENTI (Universitat de Barcelona) in 2026.
 
-📫 **Let's connect:** [LinkedIn]() | [Itch.io]() | aleixmartinez04@gmail.com
+ **Let's connect:** [LinkedIn]() | [Itch.io]() | aleixmartinez04@gmail.com
 
 ---
-### 🏆 Featured Work
-*Repositories:*
+###  Featured Work
+
