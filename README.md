@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Aleix Martinez Tejero 👋
+### Game dev
 
-<!--
-**Amoiii/Amoiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final-year CDI student based in Barcelona. I specialize in bridging the gap between deep systems programming and high-performance technical art. 
 
-Here are some ideas to get you started:
+- 💻 **Tech Stack:** C++, C#, Python, JavaScript
+- 🎮 **Game Engines:** Unreal Engine 5, Unity, Godot, SFML
+- 🔧 **Tools:** Visual Studio, Git, Jira, Adobe Suite
+- 🎓 **Education:** Graduating from ENTI (Universitat de Barcelona) in 2026.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **Let's connect:** [LinkedIn]() | [Itch.io]() | aleixmartinez04@gmail.com
+
+---
+### 🏆 Featured Work
+*Repositories:*
